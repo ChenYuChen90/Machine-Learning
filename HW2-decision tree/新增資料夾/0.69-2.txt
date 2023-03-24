@@ -1,0 +1,8 @@
+max_depth = 3
+depth = 0
+min_samples_split = 20
+
+n_trees = 31
+
+n_features = 12
+n_samples = 300
